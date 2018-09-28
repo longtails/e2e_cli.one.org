@@ -10,14 +10,14 @@
 - how to start
 
 	>1. mv e2e_cli.one.org e2e_cli
-	2. mv e2e_cli $FABRIC/example
-	3. cd $FABRIC/example/e2e_cli
-	4. ./network_setup.sh up
+	>2. mv e2e_cli $FABRIC/example
+	>3. cd $FABRIC/example/e2e_cli
+	>4. ./network_setup.sh up
 
 - stop
 
 	>1. cd $FABRIC/example/e2e_cli
-	2. ./network_setup.sh down
+	>2. ./network_setup.sh down
 
 
 
