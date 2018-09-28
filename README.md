@@ -4,8 +4,8 @@
 
 - pre
 
-	prepare docker and hyperledger fabric env
-	and move e2e_cli.one.org to $FABRIC/example
+		prepare docker and hyperledger fabric env
+		and move e2e_cli.one.org to $FABRIC/example
 
 - how to start
 
