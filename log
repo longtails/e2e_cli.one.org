@@ -1,0 +1,16 @@
+018-09-28 11:32:04.928 UTC [chaincodeCmd] chaincodeInvokeOrQuery -> DEBU 04e ESCC invoke result: version:1 response:<status:200 > payload:"\n \304\205\276\307\t*0r\035\245\2227\346\316\240\344\030\267\033^\340\247\301\205O\236\301\213>{\253\004\022Y\nE\022\024\n\004lscc\022\014\n\n\n\004mycc\022\002\010\002\022-\n\004mycc\022%\n\007\n\001a\022\002\010\002\n\007\n\001b\022\002\010\002\032\007\n\001a\032\00290\032\010\n\001b\032\003210\032\003\010\310\001\"\013\022\004mycc\032\0031.0" endorsement:<endorser:"\n\007Org1MSP\022\246\006-----BEGIN CERTIFICATE-----\nMIICJzCCAc6gAwIBAgIQTfFVlNa1aio2RyekqlMidzAKBggqhkjOPQQDAjBzMQsw\nCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZy\nYW5jaXNjbzEZMBcGA1UEChMQb3JnMS5leGFtcGxlLmNvbTEcMBoGA1UEAxMTY2Eu\nb3JnMS5leGFtcGxlLmNvbTAeFw0xODA5MjgxMTI2MThaFw0yODA5MjUxMTI2MTha\nMGoxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T\nYW4gRnJhbmNpc2NvMQ0wCwYDVQQLEwRwZWVyMR8wHQYDVQQDExZwZWVyMC5vcmcx\nLmV4YW1wbGUuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFHTzbxvj0CzZ\nHuMerVN4sanVugQTkceLm42dgffUyPOflC7HXMtqvcDN4BdB2jY8K8ckl3GHrCcp\nkQvi5TDlaqNNMEswDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAwKwYDVR0j\nBCQwIoAgp8C1lALy21QE98W/xwr6e+y3p4nrZg19GLvuE8Pis0MwCgYIKoZIzj0E\nAwIDRwAwRAIgM6RhqUNBq7uNboVpgy/xv5yU6KkPK3JtkiLxtGSTm1ACID3Ju+SJ\nBWQIGeaFHv/oG1oRs0NmZEs6B6J7y2daAcOk\n-----END CERTIFICATE-----\n" signature:"0D\002 '\022\t<\233\255\276\304\223 \274\266h\243n\366r\352%hI\206\000k\272\020\336\r\010\224\002\240\002 m\264:F\247o\271\000\3452i\266bq,\316Y\366\226'\013z\030hm@\215w\305f \360" > 
+2018-09-28 11:32:04.928 UTC [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 04f Chaincode invoke successful. result: status:200 
+===================== Invoke transaction successful on peer0.org1 on channel 'mychannel' ===================== 
+
+Installing chaincode on peer1.org2...
+Querying chaincode on peer1.org2...
+Querying chaincode on peer1.org3...
+
+===================== All GOOD, End-2-End execution completed ===================== 
+
+
+ _____   _   _   ____            _____   ____    _____ 
+| ____| | \ | | |  _ \          | ____| |___ \  | ____|
+|  _|   |  \| | | | | |  _____  |  _|     __) | |  _|  
+| |___  | |\  | | |_| | |_____| | |___   / __/  | |___ 
+|_____| |_| \_| |____/          |_____| |_____| |_____|
